@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamayun43&label=Profile%20views&color=0e75b6&style=flat" alt="hamayun43" /> </p>
 
-- 🔭 I’m currently working on **IBM |API Integration Developer |ESQL|JAVA**
+- 🔭 I’m currently working on **IBM |API Integration Developer | ESQL| JAVA**
 
 - 🌱 I’m currently learning **ESB | ACE 12**
 
